@@ -1,0 +1,13 @@
+package com.xlc.springboot2druid;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Springboot2DruidApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Springboot2DruidApplication.class, args);
+    }
+
+}
